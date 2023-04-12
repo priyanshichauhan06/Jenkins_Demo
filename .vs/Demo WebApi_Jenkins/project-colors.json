@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "deb8d225-16dc-4952-b86b-b7a9e5fe0b8b": {
+      "ProjectGuid": "deb8d225-16dc-4952-b86b-b7a9e5fe0b8b",
+      "DisplayName": "Demo WebApi_Jenkins",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
